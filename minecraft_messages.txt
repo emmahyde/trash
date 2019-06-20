@@ -6,7 +6,7 @@ Come hang out with your best friend, {GOAT_NAME}
 And the universe said I love {GOAT_NAME} because {GOAT_NAME} is love
 Get a load of this one! ({GOAT_NAME})
 {GOAT_NAME}: hey are you on your way? starting to get annoyed
-{GOAT_NAME.capitalize()} NASH EVERYBODY
+{GOAT_NAME} NASH EVERYBODY
 {GOAT_NAME}, Queen of the Dust, resides over her eternal kingdom.
 U have to come see {GOAT_NAME}'s new lakehouse dude
 {GOAT_NAME} has awoken!
